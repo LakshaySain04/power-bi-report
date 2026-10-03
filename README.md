@@ -52,6 +52,6 @@ The report uses an e-commerce sales dataset (`harrykart_ecommerce_data`) with th
 
 ## Author
 
-**Lakshay**
+**Lakshay sain **
 Data Analytics Student | Excel · SQL · Power BI
 [LinkedIn](#) · [GitHub](#)
